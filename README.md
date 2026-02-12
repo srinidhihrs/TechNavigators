@@ -51,7 +51,7 @@ The core of the system relies on the collaboration of the following specialized 
 *   **Testing**: JUnit 4
 *   **IDE**: Antigravity
 *   **Development**: Google Agent Development Kit (ADK)
-
+*   **Tools used**: Antigravity,Notebook, Google Gemini
 
 ## Running the Application Locally
 
