@@ -71,6 +71,7 @@ The core of the system relies on the collaboration of the following specialized 
 
 ## Project Diagram
 
+![Uploading Screenshot 2026-02-12 at 12.11.32 PM.png…]()
 
 
 
